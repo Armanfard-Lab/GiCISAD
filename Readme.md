@@ -1,4 +1,4 @@
-# Instruction for Running the Code
+# Instructions for Running the Code
 
 To train the model with all necessary dependencies, execute the script GiCiSAD.sh. 
 This script includes the command:
