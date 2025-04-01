@@ -1,6 +1,6 @@
 # Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection
 
-PyTorch implementation of GiCISAD.
+[WACV 2025] PyTorch implementation of GiCISAD.
 
 ## Citation
 
